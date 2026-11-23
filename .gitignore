@@ -1,0 +1,19 @@
+# Python and editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# Local environment
+.venv/
+venv/
+.env
+
+# Downloaded or generated on each machine
+models/all-MiniLM-L6-v2/
+data/cache/
+
+# The app's database holds your own expenses: keep it off GitHub
+data/spendsense.db

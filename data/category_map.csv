@@ -1,0 +1,73 @@
+source,source_category,source_subcategory,category
+household,Food,*,Food
+household,Food,Milk,Groceries
+household,Food,Grocery,Groceries
+household,Food,Eggs,Groceries
+household,Food,vegetables,Groceries
+household,Food,fruits,Groceries
+household,Food,flour mill,Groceries
+household,Food,Bread,Groceries
+household,Food,curd,Groceries
+household,Food,Onions,Groceries
+household,Food,Potato,Groceries
+household,Food,Water,Groceries
+household,Household,Kirana,Groceries
+household,Household,Appliances,Shopping
+household,Household,Hardware,Shopping
+household,Household,Furniture,Shopping
+household,Household,gadgets,Shopping
+household,Household,home decor,Shopping
+household,Household,Kitchen,Shopping
+household,Household,Toiletries,Shopping
+household,Transportation,*,Transport
+household,subscription,Mobile Service Provider,Bills
+household,subscription,Tata Sky,Bills
+household,subscription,Cable TV,Bills
+household,subscription,Wifi Internet Service,Bills
+household,subscription,Mahanagar Gas,Bills
+household,subscription,Newspaper,Bills
+household,subscription,Netflix,Entertainment
+household,subscription,Hotstar,Entertainment
+household,subscription,Amazon Prime,Entertainment
+household,subscription,OTT Platform,Entertainment
+household,subscription,Audible,Entertainment
+household,subscription,Kindle unlimited,Entertainment
+household,subscription,Edtech Course,Education
+household,Rent,*,Bills
+household,water (jar /tanker),*,Bills
+household,garbage disposal,*,Bills
+household,Health,*,Health
+household,Family,medicine,Health
+household,Education,*,Education
+household,Family,exam fee,Education
+household,Culture,Books,Education
+household,Culture,*,Entertainment
+household,Tourism,*,Entertainment
+household,Festivals,*,Entertainment
+household,Social Life,*,Entertainment
+household,Apparel,Clothing,Shopping
+household,Apparel,Footwear,Shopping
+household,Apparel,Accessories,Shopping
+household,Family,clothes,Shopping
+household,Family,misc,Shopping
+household,Family,gift,Shopping
+household,Family,makeup,Shopping
+personal_finance,Groceries,*,Groceries
+personal_finance,Restaurants,*,Food
+personal_finance,Coffee Shops,*,Food
+personal_finance,Fast Food,*,Food
+personal_finance,Food & Dining,*,Food
+personal_finance,Alcohol & Bars,*,Food
+personal_finance,Gas & Fuel,*,Transport
+personal_finance,Shopping,*,Shopping
+personal_finance,Electronics & Software,*,Shopping
+personal_finance,Home Improvement,*,Shopping
+personal_finance,Utilities,*,Bills
+personal_finance,Mobile Phone,*,Bills
+personal_finance,Internet,*,Bills
+personal_finance,Mortgage & Rent,*,Bills
+personal_finance,Auto Insurance,*,Bills
+personal_finance,Television,*,Entertainment
+personal_finance,Movies & DVDs,*,Entertainment
+personal_finance,Music,*,Entertainment
+personal_finance,Entertainment,*,Entertainment

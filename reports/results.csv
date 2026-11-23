@@ -1,0 +1,13 @@
+eval set,rows,model,accuracy,macro_f1
+household test,315,majority_baseline,0.314,0.06
+household test,315,zero_shot,0.365,0.31
+household test,315,tfidf_logreg,0.876,0.812
+household test,315,minilm_logreg,0.902,0.878
+personal finance,604,majority_baseline,0.257,0.068
+personal finance,604,zero_shot,0.798,0.819
+personal finance,604,tfidf_logreg,0.303,0.138
+personal finance,604,minilm_logreg,0.462,0.36
+own expenses,5,majority_baseline,0.2,0.067
+own expenses,5,zero_shot,0.4,0.333
+own expenses,5,tfidf_logreg,0.8,0.8
+own expenses,5,minilm_logreg,0.6,0.6
